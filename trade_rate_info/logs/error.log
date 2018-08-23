@@ -1,0 +1,5 @@
+2018-08-23 09:18:07,613	ERROR	ErrorCode 10301 bittrex {"success":false,"message":"MIN_TRADE_REQUIREMENT_NOT_MET","result":null}
+2018-08-23 09:18:07,816	ERROR	ErrorCode 10301 okex {"error_code":1003}
+2018-08-23 09:28:44,660	ERROR	ErrorCode 10301 bittrex {"success":false,"message":"MIN_TRADE_REQUIREMENT_NOT_MET","result":null}
+2018-08-23 09:28:45,253	ERROR	ErrorCode 10301 okex {"error_code":1003}
+2018-08-23 09:33:41,248	ERROR	ErrorCode 10301 bittrex {"success":false,"message":"MIN_TRADE_REQUIREMENT_NOT_MET","result":null}
